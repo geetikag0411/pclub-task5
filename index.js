@@ -3,7 +3,7 @@ const readline = require("readline-sync");
 var con = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "Umesh12#",
+  password: "****",
   database: "mydb",
 });
 con.connect(function (err) {
